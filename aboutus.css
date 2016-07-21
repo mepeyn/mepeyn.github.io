@@ -1,0 +1,75 @@
+.header{
+	font-size: 32;
+	color: #00ff00;
+	padding-top: 5%;
+	text-align: center;
+}
+
+.fieldtext{
+	 font-family: Tahoma, Arial, sans-serif; 
+    font-size: 2em;
+    display: block;
+    align-content: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding-top: 0.55em;
+    padding-bottom: 0.325em;
+    padding-left: 0.75em;
+    padding-right: 0.75em;
+    border-style: solid dashed;
+    background-color: rgba(0,0,0,0.8);
+    border-radius: 5%;
+    color: white;
+}
+p > a{
+	color:#00ff00;
+}
+p > a:hover{
+	color: #ff0000;
+}
+table{
+	border-color: #00ff00;
+	color: white;
+	font-size: 20;
+
+}
+div > a{
+	color: #ffffff;
+	margin-left: 600px;
+}
+div > a:hover{
+	color:#00ff00;
+	font-size: 20;
+}
+#ContainerDiv {
+	margin-left:300px;
+	margin-right: 300px;
+	padding-left: 40px;
+	padding-right: 40px;
+	border: 1px solid #000000;
+	background-image: url("library3.jpg");
+	background-size: cover;
+	height: 100%;
+}
+body{
+	background-color: #000000;
+}
+form{
+	color:white;
+	align-content: center;
+}
+form > input{
+	margin-bottom: 5px;
+	
+}
+form > p > input{
+	width: 300px;
+	font-size:20;
+}
+textarea{
+	font-size:16;
+}
+p{
+	color: white;
+	font-size: 20;
+}

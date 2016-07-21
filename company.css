@@ -1,0 +1,97 @@
+header{
+	background-image: url('banner.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
+}
+a{
+	color:#ffffff;
+}
+.banner{
+	color: #ffffff;
+	text-align: center;
+	font-size: 32;
+	padding-top: 100px;
+}
+.side {
+	width: 15%;
+	border: dashed;
+	border-color: green;
+	text-align: center;
+	padding-bottom: 30px;
+	padding-top: 30px;
+	margin-left: 40px;
+}
+.main{
+	width: 70%;
+	margin-left: 10%;
+	margin-top: -130px;
+}
+.category-text{
+	font-size: 32;
+	color: #ffffff;
+	padding: 20px;
+	margin-left: -105px;
+}
+.genre {
+	font-size: 24;
+	padding: 30px;
+	color: #ffffff;
+}
+table{
+	margin:0 auto;
+}
+.bgpic{
+	background-image: url('library3.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
+	height: 100%;
+}
+fieldset{
+	 font-family: Tahoma, Arial, sans-serif; 
+    font-size: 1em;
+    display: block;
+    align-content: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-top: 0.55em;
+    padding-bottom: 0.325em;
+    padding-left: 2.75em;
+    padding-right: 0.75em;
+    border-style: solid dashed ;
+    background-color: rgba(0,0,0,0.8);
+}
+.fieldside{
+	font-family: Tahoma, Arial, sans-serif; 
+    font-size: 14;
+    display: block;
+    padding-top: 0.55em;
+    padding-bottom: 0.325em;
+    padding-left: 2.75em;
+    padding-right: 0.75em;
+    border-style: solid dashed ;
+    border-radius:5%;
+    background-color: rgba(0,0,0,0.8);
+    color:black;
+    margin-bottom: 20px;
+}
+div > a:hover{
+	font-size: 20;
+	color: #00ff00;
+	border: 10px solid #000;
+	border-color: white;
+}
+td > a:hover{
+	color: #00ff00;
+}
+img{
+	margin-top: 50px;
+	margin-right: 20px;
+}
+span{
+	margin-left: 85%;
+	color: white;
+}
