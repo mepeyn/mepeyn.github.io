@@ -1,0 +1,80 @@
+@charset "utf-8";
+/* CSS Document */
+
+.head{
+	float: center;
+	text-align: center;
+	font-size: 45px;
+}
+.row {
+  margin-right: -15px;
+  margin-left: -15px;
+}
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 60%;
+      height: 60%;
+      margin: auto;
+  }
+.col-sm-4{
+	border-style: groove;
+    word-wrap: break-word;
+    height: 40%;
+}
+nav{
+	background-color: #fff;
+}
+.foot{
+	/*position: absolute;*/
+    height:100px;
+    bottom:0px;
+    left:0px;
+    right:0px;
+    margin-bottom:0px;
+	padding-left: 42.66%;
+	background-color: #ccc;
+	padding-bottom: 0px;
+}
+span{
+	font-color: #fff;
+}
+body{
+	font-family: sans-serif;
+}
+.jumbotron {
+  padding-top: 30px;
+  padding-right: 600px;
+  padding-bottom: 55px;
+  margin-bottom: 30px;
+  color: inherit;
+  background-color: #eee;
+}
+ul > img[src]{
+	width: 99.50%;
+	height: 185px;
+}
+.main-content{
+	height: 100%;
+}
+.foot> a{
+	color: #00f;
+}
+.list-table{
+width: 100%;
+border-style: groove;
+}
+.col1{
+	width:250;
+	border: 2px solid #ddd;
+}
+.col2{
+	width: 550;
+	border: 2px solid #ddd;
+}
+.col3{
+	width: 100;
+	border: 2px solid #ddd;
+}
+.bgcolor{
+	background-color: #fff;
+}
